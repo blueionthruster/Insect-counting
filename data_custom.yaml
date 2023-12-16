@@ -1,5 +1,5 @@
-train: train
-val: val
+train: training
+val: validation
 
 nc: 3
 
