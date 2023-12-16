@@ -1,3 +1,3 @@
 currently under construction, do not use
 
-# placeholder
+# this assumes that you already have downloaded a yolo model like yolov8m.pt, etc.
