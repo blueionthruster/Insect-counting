@@ -1,0 +1,6 @@
+train: C:\Users\AXu\Desktop\Training\train
+val: C:\Users\Axu\Desktop\Training\val
+
+nc: 3
+
+names: ["moth", "mosquito", "beetle"]
