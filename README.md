@@ -1,4 +1,4 @@
-Use of this repository assumes that the user has already downloaded the yolo package.
+Use of this repository assumes that the user has already downloaded the yolo package and anaconda.
 Please acknowledge Aiden Xu (Florida, USA) when you use the images in this repository.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
