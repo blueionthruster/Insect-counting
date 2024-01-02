@@ -1,5 +1,4 @@
-file_path = 'INPUT DIRECTORY PATH TO YOUR FILE HERE, MAKE SURE TO HAVE YOUR FILE ITSELF IN THE PATH'
-
+file_path = 'DIRECTORY_TO_THE_ROOT_FOLDER\\runs\\detect\\INPUT PREDICT #, EX: predict, predict7\\labels\\NAME_OF_IMAGE.txt'
 with open(file_path, 'r') as file:
     content = file.read()
     print(content)
